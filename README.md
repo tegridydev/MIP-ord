@@ -1,4 +1,4 @@
-# Matrix Inscription Protocol (MIP) v0.0.01
+# Matrix Inscription Protocol (MIP) v0.0.2
 
 ## Overview
 
